@@ -180,7 +180,7 @@ Abra o PowerShell 7 na pasta do script:
 
 ```powershell
 pwsh
-cd "D:\sharepoint\Criar Sites"
+cd "Caminho onde está o script"
 ```
 
 ### Opção A — Menu interativo (login no navegador)
