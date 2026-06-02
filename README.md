@@ -564,3 +564,9 @@ Projeto Alpha;Team;projeto-alpha;ana@contoso.com;bruno@contoso.com,carla@contoso
 # O script SPO roda no 5.1 nativamente (o PnP exigiria PS7).
 .\Criar-Sites-SPO.ps1 -AdminUrl "https://contoso-admin.sharepoint.com" -CsvPath ".\modelo-sites-spo.csv"
 ```
+
+---
+
+## Autor
+
+Desenvolvido por **Marcelo Gonçalves**.
