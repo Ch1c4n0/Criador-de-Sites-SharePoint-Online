@@ -570,3 +570,7 @@ Projeto Alpha;Team;projeto-alpha;ana@contoso.com;bruno@contoso.com,carla@contoso
 ## Autor
 
 Desenvolvido por **Marcelo Gonçalves**.
+
+## Licença
+
+Distribuído sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para detalhes.
