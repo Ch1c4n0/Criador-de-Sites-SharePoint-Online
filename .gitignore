@@ -1,0 +1,9 @@
+# Logs gerados pelas execucoes dos scripts
+logs/
+*.log
+*.resultado.csv
+
+# CSVs locais com dados reais (mantenha apenas os modelos no repo)
+modelo-spo.csv
+sites.csv
+*-local.csv

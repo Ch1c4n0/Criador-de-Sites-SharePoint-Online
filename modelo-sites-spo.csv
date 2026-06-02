@@ -1,0 +1,4 @@
+Titulo;Tipo;Url;Owner;Admins;StorageQuota
+Marketing Equipe;Team;marketing-equipe;ana@contoso.com;bruno@contoso.com;1024
+Comunicados RH;Communication;rh-comunicados;maria@contoso.com;;2048
+Projeto Alpha;Team;projeto-alpha;ana@contoso.com;bruno@contoso.com,carla@contoso.com;1024
